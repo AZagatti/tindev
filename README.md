@@ -5,7 +5,7 @@ Minha versão do Tindev feito na SemanaOmnistack 08 da Rocketseat.
 
 ## Instalação
 
-Utilize `yarn start` para instalar as dependências.
+Utilize `yarn` ou `yarn install` para instalar as dependências.
 
 
 ## Mongo
